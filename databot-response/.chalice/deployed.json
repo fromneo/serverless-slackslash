@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "region": "ap-southeast-1",
+    "api_handler_name": "databot-response-dev",
+    "api_handler_arn": "arn:aws:lambda:ap-southeast-1:910294361014:function:databot-response-dev",
+    "rest_api_id": "sme0eco706",
+    "lambda_functions": {},
+    "chalice_version": "1.0.4",
+    "api_gateway_stage": "api",
+    "backend": "api"
+  }
+}
