@@ -47,6 +47,8 @@ def verify():
         response = Response(
             status_code=200,
             headers={'Content-Type':'application/json'},
-            body={'response_type':''}
+            body={
+            'response_type':'',
+            'text': 'Request received!'}
         )
         return response

@@ -2,6 +2,9 @@
 */.chalice/deployments/
 */.chalice/venv/
 
+# conda
+bin/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
